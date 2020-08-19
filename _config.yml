@@ -2,7 +2,7 @@
 title: Dynamics Based Reconstruction
 url: https://onlyrightnow.github.io/Dynamics-Based-Reconstruction/
 paginate: 1
-baseurl: https://onlyrightnow.github.io/Dynamics-Based-Reconstruction/
+baseurl: "Dynamics-Based-Reconstruction"
 permalink: pretty
 
 # Gems
