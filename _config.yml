@@ -1,8 +1,8 @@
 # Setup
-title: Dark Poole
-url: https://getpoole.com
+title: Dynamics Based Reconstruction
+url: https://onlyrightnow.github.io/Dynamics-Based-Reconstruction/
 paginate: 1
-baseurl: ""
+baseurl: "https://onlyrightnow.github.io/Dynamics-Based-Reconstruction/"
 permalink: pretty
 
 # Gems
