@@ -5,11 +5,14 @@ title: Introduction
 
 ![](../assets/pictures/00001_full_reconstruction.png)
 <img src="../assets/pictures/00001_full_reconstruction.png" alt="drawing" width="400"/>
+<img src="00001_full_reconstruction.png" alt="drawing" width="400"/>
 
 -----
 [Code](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example layouts, pages, posts, and styles.
 
 This demo site was last updated {{ site.time | date: "%B %d, %Y" }}.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dQw4w9WgXcQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 There are currently two themes built on Poole:
 
